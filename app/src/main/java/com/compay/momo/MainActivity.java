@@ -1,14 +1,12 @@
-package net.compay.android.example;
+package com.compay.momo;
 
 import android.os.Bundle;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
-import net.compay.android.CamPay;
-import net.compay.android.models.requests.CollectionRequest;
-import net.compay.android.models.requests.WithdrawRequest;
-
-import org.w3c.dom.Text;
+import com.compay.momo.CamPay;
+import com.compay.momo.models.requests.CollectionRequest;
+import com.compay.momo.models.requests.WithdrawRequest;
 
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;

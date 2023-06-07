@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top">16dp</dimen>
+    <dimen name="headtext_padding">6dp</dimen>
+    <dimen name="welcome_text_size">20sp</dimen>
+    <dimen name="latest_Ads">8sp</dimen>
+</resources>

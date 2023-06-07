@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+
+    <color name="google_red">#db3236</color>
+    <color name="background_color">#f58936</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white_greyish">#a0a0a0</color>
+    <color name="rattingBarColor">#aaffffff</color>
+<color name="shimmerColor">#f5f5f5</color>
+    <color name="tab1">#a0d468</color>
+    <color name="tab2">#3498db</color>
+    <color name="tab3">#e8ce4d</color>
+    <color name="tab4">#F25E5E</color>
+    <color name="colorDivider">#727272</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#00000000</color>
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="card_detailing">#eee</color>
+    <color name="socialIcons_background">#eff3f6</color>
+    <color name="yellow">#ffcc00</color>
+    <color name="rangeseekbar">#f58936</color>
+    <color name="rangeseekbarhover">#f07618</color>
+    <color name="blackTransparent">#80000000</color>
+
+    <color name="spots_dialog_color">#303F9F</color>
+
+    <color name="light_grey100">#fafafa</color>
+
+    <color name="circular_progress_default_progress">#24ea01</color>
+    <color name="circular_progress_default_background">#787878</color>
+    <color name="circular_progress_default_title">#199603</color>
+    <color name="circular_progress_default_subtitle">#D1D1D1</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="verified_color">#24a740 </color>
+    <color name="notVerified_color">#F25E5E</color>
+
+
+    <color name="gradientFirst">#23966c</color>
+    <color name="gradientsecond">#faaa54</color>
+    <color name="gradientthird">#e23b4a</color>
+    <color name="gradientfourth">#db0768</color>
+    <color name="gradientfifth">#360670</color>
+
+
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_white">@android:color/white</color>
+
+
+</resources>
