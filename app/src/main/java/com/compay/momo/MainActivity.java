@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
     private CamPay camPay;
 
     @Override
-
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
