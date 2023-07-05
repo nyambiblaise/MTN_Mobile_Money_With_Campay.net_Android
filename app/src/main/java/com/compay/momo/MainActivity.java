@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         TextView msg = findViewById(R.id.message);
         TextView transacStatus = findViewById(R.id.status);
         String telephone = "2376xxxxxxxx";
-        String money = "500";
+        String money = "100";
         String paymentReason = "Momo Fee";
         CamPay.init(
                 "13vbwFMC-Sbx7YiuXtNgKpcamPIs0nDomNnclrfLwDawejHCFK3sUCQLQf91t942D3xDGWtA93kWudx5YCF7iQ",
