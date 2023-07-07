@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tel = findViewById(R.id.phone);
         TextView amt = findViewById(R.id.amount);
         TextView res = findViewById(R.id.reason);
-        TextView msg = findViewById(R.id.message);
+        TextView msg = findViewById(R.id.message);//
         TextView transacStatus = findViewById(R.id.status);
         String telephone = "2376xxxxxxxx";
         String money = "100";
